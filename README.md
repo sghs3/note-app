@@ -11,7 +11,3 @@
  4. reference
   - 기본 뼈대 -> 교수님 강의 예제
   - https://www.webcomponents.org/
-=======
-# note-app
-dfghjk
->>>>>>> 32eaa6d9c4db98cca8d0e3f9466af388ec01c3c4
