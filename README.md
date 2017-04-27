@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 노트 엡 제작
 ## 컴퓨터 공학과 2013043122 고홍식
  1. 사용한 언어 및 프레임 워크
@@ -7,6 +8,10 @@
  3. 사이트 구성
   - index -> 메모된 노트의 목록화면, 우측 텝에 노트 작성, 그외 기능을 할 버튼이 있어 클릭시 해당 사이트 이동
   - app.js -> express서버 열리고 모든 기능을 제어, db(sqlite3) 연동해서 데이터 저장
- 4. referencea
+ 4. reference
   - 기본 뼈대 -> 교수님 강의 예제
   - https://www.webcomponents.org/
+=======
+# note-app
+dfghjk
+>>>>>>> 32eaa6d9c4db98cca8d0e3f9466af388ec01c3c4
