@@ -28,3 +28,11 @@ app.all('/api/list', function (req, res, next) {
 app.listen(3000, function () {
   console.log('Example app listening on port 3000!');
 });
+module.exports = function(grunt) {
+  grunt.initConfig({
+    'download-electron': {
+      version: '0.33.0',
+      outputDir: 'build'
+    }
+  });
+};
